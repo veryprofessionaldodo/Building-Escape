@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"/home/workingdodo/Documents/Unreal Projects/BuildingEscape/.git": true,
+		"/home/workingdodo/Documents/Unreal Projects/BuildingEscape/.vscode": true,
+		"/home/workingdodo/Documents/Unreal Projects/BuildingEscape/Content": true,
+		"/home/workingdodo/Documents/Unreal Projects/BuildingEscape/DerivedDataCache": true,
+		"/home/workingdodo/Documents/Unreal Projects/BuildingEscape/Intermediate": true,
+		"/home/workingdodo/Documents/Unreal Projects/BuildingEscape/Saved": true
+	}
+}
